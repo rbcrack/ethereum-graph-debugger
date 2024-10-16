@@ -82,7 +82,7 @@
     "copyfiles": "^2.1.0",
     "d3": "^5.7.0",
     "d3-graphviz": "^2.6.0",
-    "ethereumjs-util": "^6.0.0",
+    "ethereumjs-util": "^6.2.1",
     "express": "^4.16.4",
     "express-winston": "^1.4.2",
     "inversify": "^4.13.0",
@@ -102,7 +102,7 @@
     "solc": "^0.5.8",
     "terser": "3.14.1",
     "tsoa": "2.3.81",
-    "web3": "1.0.0-beta.37",
+    "web3": "4.0.1",
     "winston": "^2.2.0"
   },
   "devDependencies": {
